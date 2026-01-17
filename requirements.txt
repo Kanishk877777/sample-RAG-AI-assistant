@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb
+huggingface-hub
+pypdf
+streamlit
+requests
+python-dotenv
